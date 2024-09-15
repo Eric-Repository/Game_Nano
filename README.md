@@ -1,4 +1,5 @@
 # Nano
+A 2 Day project.
 The first ever game I worked on at the "Global Game Jam" in 2020.
 Team members included: Eric Lin (myself), James Harding, Martin Harriott, Yodhin Singh, and Daniel Hayward
 
